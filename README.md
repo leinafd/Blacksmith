@@ -23,3 +23,4 @@ Welcome to the repository. This document establishes the **written baseline, sta
 ---
 *Task LTF-001: Baseline created successfully.*
 
+<!-- LTF-001 baseline confirmed -->
